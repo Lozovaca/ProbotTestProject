@@ -2,4 +2,9 @@ dsadsa
 dsa
 d
 sad
-asovo je najnovija promena
+a
+ds
+ad
+sa
+dsa
+sovo je najnovija promena
