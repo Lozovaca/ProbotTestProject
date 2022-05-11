@@ -7,4 +7,8 @@ ds
 ad
 sa
 dsa
+dsa
+dsa
+d
+as
 sovo je najnovija promena
