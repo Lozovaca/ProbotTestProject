@@ -48,6 +48,13 @@ b
 b
 
 
+
+// TODO: komentar2
+c
+c
+c
+
+
 // TODO: test2_komentar
 cc
 c
