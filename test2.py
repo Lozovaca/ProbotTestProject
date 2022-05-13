@@ -28,6 +28,14 @@ sovo je najnovija promena
 // TODO : first line
 // second_line
 
+
+
+// TODO: komentar1
+// TODO: komentar2
+
+
+
+
 xxxdsadsd
 sa
 dsa
