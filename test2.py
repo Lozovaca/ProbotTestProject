@@ -55,6 +55,11 @@ c
 c
 
 
+
+
+// TODO: komentar_novi_2
+
+
 // TODO: test2_komentar
 cc
 c
