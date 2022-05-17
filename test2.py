@@ -58,7 +58,7 @@ c
 aa
 a
 a
-
+// TODO: kraci_komentar
 
 // TODO: ovo je komentarrr
 
