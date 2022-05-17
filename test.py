@@ -118,9 +118,12 @@ a
 // TODO: vlalal
 // TODO: this_is_my_jira_ticket!
 
-// TODO: KOMENTAARRR
-// TODO blablabla
+// TODO: KOMENTAARR
 
+
+R
+// TODO blablabla
+// TODO: DSADSADSADAS
 // TODO: my_frist_jira_ticket
 
 // TODO: my_jira_TICKET_AUTOMATED
