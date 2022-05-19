@@ -140,6 +140,7 @@ v
 v
 // TODO : zzadas
 
+// TODO: najzaddaradi
 // TODO : ZZZZ
 // TODO : zabo
 a
